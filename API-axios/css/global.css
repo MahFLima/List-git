@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+}
+
+body{
+  background: #111215;
+}
+
+body, input, button{
+  color: #fff;
+  font-family: Inter, sans-serif;
+}
+
+svg{
+  fill: #fff;
+  width: 31px;
+  height: 31px;
+}
+
+.btn{
+  width: 6.25rem;
+  height: 3rem;
+  background-color: green;
+  border: none;
+  border-radius: 0.75rem;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+.btn:hover{
+  background-color: darkgreen;
+}
+
+h1{
+  margin-bottom: 1rem;
+}
+
